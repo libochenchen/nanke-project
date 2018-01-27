@@ -1,2 +1,2 @@
-# plp-project
+# nanke-project
 project for nanke
